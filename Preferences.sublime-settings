@@ -1,0 +1,12 @@
+{
+	"color_scheme": "Packages/Theme - Dark Material/schemes/Dark-Material.tmTheme",
+	"font_size": 13,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"numix_folder_icons": true,
+	"overlay_scroll_bars": "enabled",
+	"save_on_focus_lost": true,
+	"theme": "Numix Dark Blue.sublime-theme"
+}
